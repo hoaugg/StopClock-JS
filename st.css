@@ -52,3 +52,6 @@ body{
     cursor: pointer;
     outline: none;
 }
+button:hover {
+    background-color: darkred;
+  }
